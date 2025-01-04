@@ -1,0 +1,101 @@
+{
+  "videos": [
+    {
+      "id": "4",
+      "titulo": "Consejos de CSS FlexBox para comenzar",
+      "imagen": "https://img.youtube.com/vi/EB4vWLzfVcI/maxresdefault.jpg",
+      "video": "https://www.youtube.com/watch?v=EB4vWLzfVcI",
+      "categoria": "Front end",
+      "descripcion": "En esta nueva edición de Alura + aprenderemos un poco más sobre los primeros pasos para empezar a trabajar con Flexbox en CSS y conoceremos las principales etiquetas y cómo aplicarlas. "
+    },
+    {
+      "id": "5",
+      "titulo": "¡Domina CSS Flexbox con FlexboxFroggy! Aprende jugando en este desafío divertido!",
+      "imagen": "https://img.youtube.com/vi/MXPhyN5t0uQ/maxresdefault.jpg",
+      "video": "https://www.youtube.com/watch?v=MXPhyN5t0uQ",
+      "categoria": "Front end",
+      "descripcion": "En esta nueva edición de Alura + aprenderemos un poco más sobre los primeros pasos para empezar a trabajar con Flexbox en CSS y conoceremos las principales etiquetas y cómo aplicarlas. "
+    },
+    {
+      "id": "6",
+      "titulo": "Equipo Front Ends",
+      "imagen": "https://img.youtube.com/vi/rpvrLaBQwgg/maxresdefault.jpg",
+      "video": "https://www.youtube.com/watch?v=rpvrLaBQwgg",
+      "categoria": "Front end",
+      "descripcion": "En este video, Jeanmarie Quijada, instructora Front End en Alura Latam te explica qué hace el equipo de Front End."
+    },
+    {
+      "id": "7",
+      "titulo": "Bucles y Bucles Anidados en Javascript ",
+      "categoria": "Back end",
+      "imagen": "https://img.youtube.com/vi/FEdqGdtZuwc/maxresdefault.jpg",
+      "video": "https://www.youtube.com/watch?v=FEdqGdtZuwc",
+      "descripcion": "En este video, la instructora Génesys Rondón nos explica como aplicar Bucles utilizando como ejemplo un calendario."
+    },
+    {
+      "id": "8",
+      "titulo": "Explorando el poder del Back-End en el Desarrollo Web",
+      "categoria": "Back end",
+      "imagen": "https://img.youtube.com/vi/Z024LSCMqFk/maxresdefault.jpg",
+      "video": "https://www.youtube.com/watch?v=Z024LSCMqFk",
+      "descripcion": "¡Videos nuevos todos los miércoles! A las 6pm México * 7pm Colombia * 8pm Bolivia * 9pm Argentina/Chile"
+    },
+    {
+      "id": "1",
+      "titulo": "Currículum, qué incluir y qué dejar fuera",
+      "categoria": "Inovación y gestión",
+      "imagen": "https://img.youtube.com/vi/nzVdLC_QpnA/maxresdefault.jpg",
+      "video": "https://www.youtube.com/watch?v=nzVdLC_QpnA",
+      "descripcion": "¿Estás preparando tu currículum y no sabes qué información es realmente importante? En este video, te guiaré paso a paso sobre qué elementos son esenciales para incluir en tu CV y qué detalles es mejor dejar fuera. Aprenderás a destacar tus habilidades y experiencias relevantes para captar la atención de los reclutadores y aumentar tus oportunidades de conseguir el trabajo que deseas."
+    },
+    {
+      "id": "2",
+      "titulo": "Inmersión Java: Tus primeros pasos con Java",
+      "categoria": "Back end",
+      "imagen": "https://img.youtube.com/vi/C6ohBxRSVj4/maxresdefault.jpg",
+      "video": "https://www.youtube.com/live/C6ohBxRSVj4",
+      "descripcion": "Regístrate ahora a nuestra Inmersión Java, ¡Dos clases con increíbles que te ayudarán a dar el siguiente paso en tus estudios y tu carrera. Las clases serán los días 30 de abril y 02 de mayo."
+    },
+    {
+      "id": "3",
+      "titulo": "Consejos de CSS FlexBox para comenzar",
+      "imagen": "https://img.youtube.com/vi/EB4vWLzfVcI/maxresdefault.jpg",
+      "video": "https://www.youtube.com/watch?v=EB4vWLzfVcI",
+      "categoria": "Front end",
+      "descripcion": "En esta nueva edición de Alura + aprenderemos un poco más sobre los primeros pasos para empezar a trabajar con Flexbox en CSS y conoceremos las principales etiquetas y cómo aplicarlas."
+    },
+    {
+      "id": "3",
+      "titulo": "cxv",
+      "imagen": "xzvxzv",
+      "video": "xzv",
+      "categoria": "Back end",
+      "descripcion": "zvxz"
+    },
+    {
+      "id": "2",
+      "titulo": "asa",
+      "imagen": "https://img.youtube.com/vi/EB4vWLzfVcI/maxresdefault.jpg",
+      "video": "asas",
+      "categoria": "Back end",
+      "descripcion": "zxzcccccccccccc"
+    }
+  ],
+  "categorias": [
+    {
+      "id": "1",
+      "nombre": "Front end",
+      "color": "blue"
+    },
+    {
+      "id": "2",
+      "nombre": "Back end",
+      "color": "green"
+    },
+    {
+      "id": "3",
+      "nombre": "Innovación y gestión",
+      "color": "yellow"
+    }
+  ]
+}
